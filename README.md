@@ -4,7 +4,7 @@
 
 ⠀⠀⠀⠀• Digital Mail: business@1337scr.com
 
-⠀⠀⠀⠀• <img src="https://cdn.discordapp.com/emojis/635241544382808124.png?size=80" width="35" height="35" style="max-width: 100%;">Discord: bijou#6679
+⠀⠀⠀⠀• Discord: bijou#6679
 
 
 #### Languages 
