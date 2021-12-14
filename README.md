@@ -4,7 +4,7 @@
 
 ⠀⠀⠀⠀• Digital Mail: business@1337scr.com
 
-⠀⠀⠀⠀• Discord: bijou#6679
+⠀⠀⠀⠀• Discord: <p dir="auto">• Discord: <a href="" rel="nofollow">bijou#6679</a></p>
 
 
 #### Languages 
