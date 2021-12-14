@@ -5,13 +5,10 @@
 
 #### Languages 
 
-•C#
-
-•C++
-
-•JAVA
-
-•JAVASCRİPT
+<img src="https://camo.githubusercontent.com/5e4e512a9fba4d33300fa431e2c5fb07d476d5f15194bc75dfbf3da545f73e43/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176617363726970742d323735323134382d323238343936352e706e67" alt="javascript" width="35" height="35" data-canonical-src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="35" height="35" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/8f7b3fb40e2b05078d94187e1ea3e664e05ff33b3b643835d5759e2ade35515d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230343870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" alt="php" width="35" height="35" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" style="max-width: 100%;">
 
 
 
