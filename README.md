@@ -31,7 +31,8 @@
 
 
 
-Abi Türkler Zeki??
+
+Abi Türkler Zeki?? <img src="https://cdn.discordapp.com/emojis/733776096272580678.gif?size=80" width="35" height="35" style="max-width: 100%;">
   
 
 
