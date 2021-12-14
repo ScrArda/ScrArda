@@ -2,7 +2,9 @@
 
 #### for contact
 
-⠀⠀⠀⠀• business@1337scr.com
+⠀⠀⠀⠀• Digital Mail: business@1337scr.com
+⠀⠀⠀⠀• Discord: scrxrp#6679
+
 
 #### Languages 
 
