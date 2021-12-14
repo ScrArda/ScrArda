@@ -32,10 +32,8 @@
 
 
 
-Abi Türkler Zeki?? <img src="https://cdn.discordapp.com/emojis/733776096272580678.gif?size=80" width="35" height="35" style="max-width: 100%;">
+Abi Türkler Zeki?? <img src="https://cdn.discordapp.com/emojis/733776096272580678.gif?size=80" width="35" height="35" style="max-width: 100%;"><img src="https://cdn.discordapp.com/attachments/814411579974090782/814411672474353704/774112956244819970.gif" width="35" height="35" style="max-width: 100%;">
 
-
-<img src="https://cdn.discordapp.com/attachments/814411579974090782/814411672474353704/774112956244819970.gif" width="35" height="35" style="max-width: 100%;">
   
 
 
